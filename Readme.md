@@ -5,11 +5,11 @@
 #### 
 | Nama       | Nrp        | Jobdesk    |
 |:----------:|:----------:|:----------:|
-| Davin Maulana Ardana  | 2123500002 | Teks kanan|
-| Achmad Rafi Mauliddani  | 2123500006 | Contoh 3  |
-| Dodot Made Kurnia  | 2123500015 | Contoh 3  |
-| Andika Jalanidi  | 2123500017 | Contoh 3  |
-| Ilham Dwi Sulistiawan  | 2123500018 | Contoh 3  |
-| Nur Roykhan Muhammad | 2123500024 | Contoh 3  |
+| Davin Maulana Ardana  | 2123500002 | Project Manager |
+| Achmad Rafi Mauliddani  | 2123500006 | Hardware |
+| Dodot Made Kurnia  | 2123500015 | 3D Designer |
+| Andika Jalanidi  | 2123500017 | Programmer |
+| Ilham Dwi Sulistiawan  | 2123500018 | 3D Designer |
+| Nur Roykhan Muhammad | 2123500024 | Hardware |
 
 
