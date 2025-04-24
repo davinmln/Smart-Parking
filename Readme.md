@@ -1,4 +1,4 @@
-# 🥈 
+# 🥈 Kelompok 2
 # 🚗 EasyPark Team <br> 
 # 👥 Team Member 
 #### 
