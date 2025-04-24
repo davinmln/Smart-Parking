@@ -20,6 +20,16 @@ Proyek Smart Parking ini bertujuan untuk mengembangkan sistem parkir cerdas yang
 - Menyediakan solusi parkir yang efisien dan modern untuk mengurangi waktu pencarian tempat parkir oleh pengguna.
 - Mengurangi kemacetan di area parkir akibat kendaraan yang berkeliling mencari slot kosong.
 - Memberikan informasi ketersediaan tempat parkir secara akurat kepada pengguna.
+## Komponen 
+| Nama Komponen       | Kegunaan        |
+|:----------:|:----------:|
+| Limit Swich | Untuk mengetahui di bagian mana slot parkir yang kosong |
+| Infrared Sensor | Untuk mendeteksi apakah mobil sudah melewati pintu parkir |
+| RFID  | Sebagai akses keluar dan masuk kendaraan | 
+| Servo  | Untuk membuka dan menutup pintu masuk | 
+| Arduino Nano  | Sebagai mikrokontroler yang akam di gunakan |
+| Lcd Dislay 16x2 | Untuk menampilkan slot kosong di parkiran di pintu masuk |
+
 
 
 
