@@ -4,7 +4,7 @@
 - Mata Kuliah : Workshop Mikrokontroller
 - Program Studi : Teknik Elektronika
 - Institusi : Politeknik Elektronika Negeri Surabaya ( PENS ) 
-## 👥 Easy Park Team Member 
+## 👥 EasyPark Team Member 
 #### 
 | Nama       | Nrp        | Jobdesk    |
 |:----------:|:----------:|:----------:|
