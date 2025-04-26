@@ -5,6 +5,8 @@
 - Program Studi : Teknik Elektronika
 - Institusi : Politeknik Elektronika Negeri Surabaya ( PENS ) 
 ## 👥 EasyPark Team Member
+![Logo](images/logo.png)
+
 #### 
 | Nama       | Nrp        | Jobdesk    |
 |:----------:|:----------:|:----------:|
