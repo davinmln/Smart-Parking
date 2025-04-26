@@ -5,20 +5,10 @@
 - Program Studi : Teknik Elektronika
 - Institusi : Politeknik Elektronika Negeri Surabaya ( PENS ) 
 ## 👥 EasyPark Team Member
-## 👥 EasyPark Team Member
 <p align="center">
-  <img src="images/easypark-team.jpg" alt="Foto Tim EasyPark" width="400"/>
+  <img src="Asset/WhatsApp Image 2025-04-24 at 22.26.46_a57d9f27.jpg" alt="Foto Tim EasyPark" width="250" align="left"/>
 </p>
-| Nama       | Nrp        | Jobdesk    |
-|:----------:|:----------:|:----------:|
-| Davin Maulana Ardana  | 2123500002 | Project Manager |
-| Achmad Rafi Mauliddani  | 2123500006 | Hardware |
-| Dodot Made Kurnia  | 2123500015 | UI/UX Designer |
-| Andika Jalanidi  | 2123500017 | Programmer |
-| Ilham Dwi Sulistiawan  | 2123500018 | 3D Designer |
-| Nur Roykhan Muhammad | 2123500024 | Hardware |
 
-#### 
 | Nama       | Nrp        | Jobdesk    |
 |:----------:|:----------:|:----------:|
 | Davin Maulana Ardana  | 2123500002 | Project Manager |
