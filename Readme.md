@@ -1,7 +1,8 @@
 # SMART PARKING
 <p align="center">
-  <img src="Asset/WhatsApp Image 2025-04-24 at 22.26.46_a57d9f27.jpg" alt="Foto Tim EasyPark" width="250" align="left"/>
+   <img src="Image/Cover.jpg" alt="Foto Tim EasyPark" width="1000"/>
 </p>
+
 ## Support By :
 - Dosen Pengampu : Akhmad Hendriawan, S.ST.,M.T.
 - Mata Kuliah : Workshop Mikrokontroller
