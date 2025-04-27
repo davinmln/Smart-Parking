@@ -4,7 +4,7 @@
 </p>
 
 ## Support By :
-- Dosen Pengampu : Akhmad Hendriawan, S.ST.,M.T.
+- Dosen Pengampu : Akhmad Hendriawan ST, MT
 - Mata Kuliah : Workshop Mikrokontroller
 - Program Studi : D3 Teknik Elektronika
 - Institusi : Politeknik Elektronika Negeri Surabaya ( PENS )
