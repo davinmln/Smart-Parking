@@ -7,7 +7,8 @@
 - Dosen Pengampu : Akhmad Hendriawan, S.ST.,M.T.
 - Mata Kuliah : Workshop Mikrokontroller
 - Program Studi : D3 Teknik Elektronika
-- Institusi : Politeknik Elektronika Negeri Surabaya ( PENS ) 
+- Institusi : Politeknik Elektronika Negeri Surabaya ( PENS )
+  
 ## 👥 EasyPark Team Member
 <p align="center">
   <img src="Asset/WhatsApp Image 2025-04-24 at 22.26.46_a57d9f27.jpg" alt="Foto Tim EasyPark" width="250" align="left"/>
@@ -21,12 +22,15 @@
 | Andika Jalanidi  | 2123500017 | Programmer |
 | Ilham Dwi Sulistiawan  | 2123500018 | 3D Designer |
 | Nur Roykhan Muhammad | 2123500024 | Hardware |
+
 ## Deskripsi Projek
 Proyek Smart Parking ini bertujuan untuk mengembangkan sistem parkir cerdas yang dapat membantu pengguna kendaraan dalam menemukan tempat parkir kosong dengan lebih cepat dan efisien. Dalam sistem parkir konvensional, pengguna sering kali harus berkeliling untuk mencari tempat kosong, yang menyebabkan pemborosan waktu, bahan bakar, dan bahkan menimbulkan kemacetan.
+
 ## Tujuan Proyek
 - Menyediakan solusi parkir yang efisien dan modern untuk mengurangi waktu pencarian tempat parkir oleh pengguna.
 - Mengurangi kemacetan di area parkir akibat kendaraan yang berkeliling mencari slot kosong.
 - Memberikan informasi ketersediaan tempat parkir secara akurat kepada pengguna.
+  
 ## Komponen 
 | Nama Komponen       | Kegunaan        |
 |:----------:|:----------:|
