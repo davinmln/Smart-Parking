@@ -41,6 +41,8 @@ Proyek Smart Parking ini bertujuan untuk mengembangkan sistem parkir cerdas yang
 | Arduino Nano  | Sebagai mikrokontroler yang akam di gunakan |
 | Lcd Dislay 16x2 | Untuk menampilkan slot kosong di parkiran di pintu masuk |
 
+## 
+
 ## Blok Diagram Sistem
 <p align="center">
    <img src="Image/Blok Diagram.jpg" alt="Foto Tim EasyPark" width="1000"/>
@@ -61,6 +63,7 @@ Proyek Smart Parking ini bertujuan untuk mengembangkan sistem parkir cerdas yang
 
 
 
+Hardware/PCB/3D PCB.png
 
 
 
