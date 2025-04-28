@@ -56,7 +56,7 @@ Proyek Smart Parking ini bertujuan untuk mengembangkan sistem parkir cerdas yang
 
 ## Design Software
 <p align="center">
-   <img src="3D Design/3D Design 2.png" alt="Foto Tim EasyPark" width="1000"/>
+   <img src="UI/UI Desktop (not Fixed).png" alt="Foto Tim EasyPark" width="1000"/>
 </p>
 
 
