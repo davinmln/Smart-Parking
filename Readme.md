@@ -43,7 +43,7 @@ Proyek Smart Parking ini bertujuan untuk mengembangkan sistem parkir cerdas yang
 
 ## Blok Diagram Sistem
 <p align="center">
-   <img src="Image/Blok Diagram.jpg" alt="Foto Tim EasyPark" width="1000"/>
+   <img src="Image/Blok Diagram.jpg" alt="Foto Tim EasyPark" width="500"/>
 </p>
 
 ## 3D Design Parking Slot
