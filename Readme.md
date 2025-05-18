@@ -24,7 +24,7 @@
 | Nur Roykhan Muhammad | 2123500024 | Hardware |
 
 ## Deskripsi Projek
-Proyek Smart Parking ini bertujuan untuk mengembangkan sistem parkir cerdas yang dapat membantu pengguna kendaraan dalam menemukan tempat parkir kosong dengan lebih cepat dan efisien. Dalam sistem parkir konvensional, pengguna sering kali harus berkeliling untuk mencari tempat kosong, yang menyebabkan pemborosan waktu, bahan bakar, dan bahkan menimbulkan kemacetan.
+Sistem Smart Parking adalah solusi berbasis teknologi untuk mempermudah pencarian tempat parkir di area umum, seperti apartemen, pusat perbelanjaan, dan area publik lainnya. Sistem ini menggunakan sensor dan teknologi IoT untuk mendeteksi ketersediaan parkir secara real-time dan memberikan informasi langsung kepada pengguna. Tujuan utama proyek ini adalah untuk mengurangi waktu yang dihabiskan pengemudi dalam mencari tempat parkir dan mengoptimalkan penggunaan lahan parkir yang ada. Sistem ini tidak hanya memberikan kenyamanan bagi pengguna dengan cara yang efisien dan cepat, tetapi juga membantu pengelola parkir dalam memonitor kapasitas dan pendapatan parkir secara otomatis.
 
 ## Tujuan Proyek
 - Menyediakan solusi parkir yang efisien dan modern untuk mengurangi waktu pencarian tempat parkir oleh pengguna.
