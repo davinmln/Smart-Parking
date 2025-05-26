@@ -30,7 +30,6 @@ Sistem Smart Parking adalah solusi berbasis teknologi untuk mempermudah pencaria
 - Menyediakan solusi parkir yang efisien dan modern untuk mengurangi waktu pencarian tempat parkir oleh pengguna.
 - Mengurangi kemacetan di area parkir akibat kendaraan yang berkeliling mencari slot kosong.
 - Memberikan informasi ketersediaan tempat parkir secara akurat kepada pengguna.
-- 
   
 ## Komponen 
 | Nama Komponen       | Kegunaan        |
