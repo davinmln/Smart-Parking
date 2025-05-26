@@ -51,6 +51,11 @@ Sistem Smart Parking adalah solusi berbasis teknologi untuk mempermudah pencaria
    <img src="Hardware/Blok Diagram/Blok diagram system" alt="Foto Tim EasyPark" width="1000"/>
 </p>
 
+## Design PCB
+<p align="center">
+   <img src="Hardware/PCB Hardware/PCB top miring.png" alt="Foto Tim EasyPark" width="1000"/>
+</p>
+
 ## 3D Design Parking Slot
 <p align="center">
    <img src="3D Design/3D Design 1.png" alt="Foto Tim EasyPark" width="1000"/>
