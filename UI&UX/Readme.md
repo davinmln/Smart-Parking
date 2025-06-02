@@ -6,5 +6,5 @@
 
 # *Tampilan design UI Pada Figma*
 <p align="center">
-  <img src="UI Design Figma.png" alt="Foto Figma EasyPark" width="auto" align="center"/>
+  <img src="Design UI Figma.png" alt="Foto Figma EasyPark" width="auto" align="center"/>
 </p>
