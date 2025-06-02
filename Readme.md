@@ -41,10 +41,6 @@ Sistem Smart Parking adalah solusi berbasis teknologi untuk mempermudah pencaria
 | Arduino Nano  | Sebagai mikrokontroler yang akam di gunakan |
 | Lcd Dislay 16x2 | Untuk menampilkan slot kosong di parkiran di pintu masuk |
 
-## 3D Design PCB
-<p align="center">
-   <img src="Hardware/PCB/3D PCB.png" alt="Foto Tim EasyPark" width="1000"/>
-</p>
 
 ## Blok Diagram Sistem
 <p align="center">
@@ -60,8 +56,6 @@ Sistem Smart Parking adalah solusi berbasis teknologi untuk mempermudah pencaria
 <p align="center">
    <img src="3D Design/File 3D/3D Design Terbaru.jpg" alt="Foto Tim EasyPark" width="1000"/>
 </p>
-
-## Design Software
 
 ## Video Iklan
 https://github.com/user-attachments/assets/c66144eb-d369-47d5-b7e9-3379c96ada36
