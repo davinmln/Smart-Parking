@@ -57,7 +57,9 @@ Sistem Smart Parking adalah solusi berbasis teknologi untuk mempermudah pencaria
 </p>
 
 ## 3D Design Parking Slot
-
+<p align="center">
+   <img src="3D Design/File 3D/3D Design Terbaru.jpg" alt="Foto Tim EasyPark" width="1000"/>
+</p>
 
 ## Design Software
 
