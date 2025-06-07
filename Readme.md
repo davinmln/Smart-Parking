@@ -57,9 +57,9 @@ Sistem Smart Parking adalah solusi berbasis teknologi untuk mempermudah pencaria
    <img src="3D Design/File 3D/3D Design Terbaru.jpg" alt="Foto Tim EasyPark" width="1000"/>
 </p>
 
-## Link Thingiverse 3D
+## Link Thingiverse 3D Design
 
-[Teruskan ke website Thingverse](https://www.thingiverse.com/thing:7059087)
+**[Teruskan ke website Thingverse](https://www.thingiverse.com/thing:7059087)**
 
 ## UI/UX Design
 <p align="center">
