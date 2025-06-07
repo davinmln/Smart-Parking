@@ -59,7 +59,7 @@ Sistem Smart Parking adalah solusi berbasis teknologi untuk mempermudah pencaria
 
 ## Link Thingiverse 3D
 
-[Lihat folder UI](UI&UX)
+[Teruskan ke website Thingverse](https://www.thingiverse.com/thing:7059087)
 
 ## UI/UX Design
 <p align="center">
