@@ -57,6 +57,10 @@ Sistem Smart Parking adalah solusi berbasis teknologi untuk mempermudah pencaria
    <img src="3D Design/File 3D/3D Design Terbaru.jpg" alt="Foto Tim EasyPark" width="1000"/>
 </p>
 
+## Link Thingiverse 3D
+
+[Lihat folder UI](UI&UX)
+
 ## UI/UX Design
 <p align="center">
   <img src="UI&UX/ui monitoring tempat parkir.png" alt="Foto ui EasyPark" width="auto" align="center"/>
