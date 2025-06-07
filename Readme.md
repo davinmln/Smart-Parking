@@ -38,7 +38,7 @@ Sistem Smart Parking adalah solusi berbasis teknologi untuk mempermudah pencaria
 | Infrared Sensor | Untuk mendeteksi apakah mobil sudah melewati pintu parkir |
 | RFID  | Sebagai akses keluar dan masuk kendaraan | 
 | Servo  | Untuk membuka dan menutup pintu masuk | 
-| Arduino Nano  | Sebagai mikrokontroler yang akam di gunakan |
+| Arduino Uno  | Sebagai mikrokontroler yang akam di gunakan |
 | Lcd Dislay 16x2 | Untuk menampilkan slot kosong di parkiran di pintu masuk |
 
 
