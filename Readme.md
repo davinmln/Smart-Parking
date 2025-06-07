@@ -66,6 +66,14 @@ Sistem Smart Parking adalah solusi berbasis teknologi untuk mempermudah pencaria
   <img src="UI&UX/ui monitoring tempat parkir.png" alt="Foto ui EasyPark" width="auto" align="center"/>
 </p>
 
+## Simulasi Wokwi
+<p align="center">
+  <img src="Program AVR/Simulasi Program/simulasi wokwi.png" alt="Foto simulasi wokwi" width="auto" align="center"/>
+</p>
+
+## Link Simulasi Wokwi
+**🔗[Teruskan ke website Wokwi](https://wokwi.com/projects/433106752911339521)**
+
 ## Video Iklan
 https://github.com/user-attachments/assets/c66144eb-d369-47d5-b7e9-3379c96ada36
 
